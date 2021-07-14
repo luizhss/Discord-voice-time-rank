@@ -1,0 +1,3 @@
+elara
+discord.py
+python-dotenv
